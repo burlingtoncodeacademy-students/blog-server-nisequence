@@ -4,5 +4,11 @@
         "title": "First Blog Post",
         "author": "Paul Niemczyk",
         "body": "These student devs keep getting younger and smarter"
+    },
+    {
+        "post_id": 2,
+        "title": "Nicole's First Blog Post",
+        "author": "Nicole Sekol",
+        "body": "This isn't so bad..."
     }
 ]
