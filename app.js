@@ -4,7 +4,6 @@ const PORT = 4002;
 
 // ?------------------- Required File Paths ------------------------
 const routesController = require("./controllers/routes");
-//const cors = require("cors");
 
 // ?------------- App Functionality/What It Does Next --------------
 app.use(express.json());
