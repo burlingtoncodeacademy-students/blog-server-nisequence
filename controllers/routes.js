@@ -95,7 +95,7 @@ router.post("/new", (req, res) => {
             fs.writeFile(fsPath, JSON.stringify(blogData), (err) => console.log(err));
 
             res.status(200).json({
-                status: `Created new comment titled "${newPost.title}"!`,
+                status: `Created new comment titled: ${newPost.title}`,
                 newPost,
             });
         });

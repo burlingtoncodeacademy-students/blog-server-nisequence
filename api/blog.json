@@ -16,5 +16,11 @@
         "title": "Nicole's Second Blog Post",
         "author": "Nicole Sekol",
         "body": "Postman is great for devs"
+    },
+    {
+        "post_id": 4,
+        "title": "Making Notes",
+        "author": "Nicole Sekol",
+        "body": "This search tool is working pretty well"
     }
 ]
