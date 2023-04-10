@@ -10,5 +10,11 @@
         "title": "Nicole's First Blog Post",
         "author": "Nicole Sekol",
         "body": "This isn't so bad..."
+    },
+    {
+        "post_id": 3,
+        "title": "Nicole's Second Blog Post",
+        "author": "Nicole Sekol",
+        "body": "Postman is great for devs"
     }
 ]
